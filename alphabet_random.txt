@@ -1,4 +1,9 @@
 asdkljfhasdlkf
 
 asdflkj
+<<<<<<< HEAD
 #User 1
+=======
+#User 2 Changes
+asldkj
+>>>>>>> 1bb408d (User 2 changes)

@@ -1,5 +1,10 @@
 asdkljfhasdlkf
 
 asdflkj
+<<<<<<< HEAD
 #User 1 adding content
 asldhalskd
+=======
+#User 2 add changes
+sld;lasdjf
+>>>>>>> cc0b38a (User 2 adding content)
